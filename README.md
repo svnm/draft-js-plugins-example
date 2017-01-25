@@ -1,5 +1,5 @@
-# final-draft
-a Draft.js editor http://vace.nz/finaldraft
+# draft-js-plugins-example
+A Draft.js plugin example
 
 ## Run Example
 
